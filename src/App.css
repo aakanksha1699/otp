@@ -1,0 +1,130 @@
+.container{
+  position: absolute;
+  width: 460px;
+  height: 510px;
+  left: 0px;
+  top: 0px;
+  background: #464779;
+  }
+  
+  #back{
+    position: absolute;
+  left: 4px;
+  right: 16.67%;
+  top: 4px;
+  bottom: 16.67%;
+  color: #07A6F0;
+  }
+  
+  #close{
+  position: absolute;
+  left: 431px;
+  right: 20.83%;
+  top: 15px;
+  bottom: 20.83%;
+  color: #FFFFFF;
+  }
+
+.enter{
+  height: 27px;
+  width: 283px;
+  left: 50px;
+  top: 96px;
+  border-radius: nullpx;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;  
+  position: absolute;  
+  color: white;
+}
+
+.num{
+  height: 33px;
+width: 172px;
+left: 49px;
+top: 134px;
+border-radius: nullpx;
+position: absolute;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 33px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+#dash1{
+  position: absolute;
+  width: 57.43px;
+  height: 0px;
+  left: 50px;
+  top: 230px;
+  border: 1px solid #9798C2;
+}
+
+#dash2{
+position: absolute;
+width: 57.43px;
+height: 0px;
+left: 117.43px;
+top: 230px;
+border: 1px solid #9798C2;
+}
+
+#dash3{
+position: absolute;
+width: 57.43px;
+height: 0px;
+left: 184.86px;
+top: 230px;
+border: 1px solid #9798C2;
+}
+
+#dash4{
+position: absolute;
+width: 57.43px;
+height: 0px;
+left: 252.3px;
+top: 230px;
+border: 1px solid #9798C2;
+}
+
+.resend{
+position: absolute;
+width: 98px;
+height: 22px;
+left: 50px;
+top: 243px;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.02em;
+color: #07A6F0;
+}
+
+#cont{
+height: 55.434783935546875px;
+width: 360px;
+left: 50px;
+top: 278.02px;
+border-radius: 5px;  
+background: linear-gradient(180deg, #07A6F0 0%, #3136AD 100%), #07A6F0;
+border-radius: 5px;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+letter-spacing: 0.05em;
+color: white;
+position: absolute;
+border: hidden;
+outline:#07A6F0;
+}
